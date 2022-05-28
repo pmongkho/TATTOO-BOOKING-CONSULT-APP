@@ -1,0 +1,32 @@
+.login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+margin: 20px;
+color: #164985;
+}
+.login__welcome{
+    margin-bottom: 20px;
+     text-align: center;
+}
+.login button {
+     width: 200px;
+  text-transform: none;
+  /* background-color: #60198a;
+  border: 1px solid #8030af; */
+  /* color: #eff2f5; */
+  font-size: 16px; 
+  margin: 40px 0px;
+
+}
+
+.login img{
+    object-fit: contain;
+}
+
+*{
+    /* outline: 1px solid red; */
+}
+
+

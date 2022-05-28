@@ -1,0 +1,72 @@
+* {
+/* outline: 1px solid red; */
+ 
+  
+}
+.client-form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: #ffffff;
+  color: rgb(12, 12, 12);
+}
+
+.form {
+  background-color: #ffffff;
+padding: 20px 0px;
+  width: 100%;
+
+}
+.form h1{
+    margin: 10px;
+}
+.name{
+    margin: 20px 0px 0px;
+}
+.style{
+    margin: 20px 0px 0px;
+}
+.reference{
+        margin: 20px 0px 0px;
+
+}
+
+.placement{
+        margin: 20px 0px 0px;
+
+}
+
+.add-comments{
+        margin: 20px 0px 0px;
+
+}
+.MuiTextField-root{
+    width: 80%;
+}
+.style .MuiFormControl-root{
+    width: 80%;
+}
+
+.reference .MuiButton-root{
+width: 80%;
+}
+.reference p{
+    margin-right: 10px;
+}
+.MuiButton-root{
+    width: 80%;
+
+}
+
+.MuiSelect-root{
+    color: white;
+}
+.MuiAutocomplete.T-root{
+    width: 80%;
+}
+.submit{
+        margin: 20px 0px 20px;
+
+}
+

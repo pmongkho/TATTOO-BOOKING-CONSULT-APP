@@ -1,0 +1,27 @@
+.tattoo-inquiry{
+padding: 20px;
+background-color: rgb(255, 255, 255);
+border: 1px solid black;
+}
+
+.inquiry__top{
+    display: flex;
+    justify-content: space-between;
+}
+.inquiry__middle{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.inquiry__middle img{
+    width: 60%;
+}
+.inquiry__middle__right__placement{
+margin-bottom: 20px;   
+}
+
+.inquiry__bottom{
+    display: flex;
+    justify-content: space-evenly;
+}

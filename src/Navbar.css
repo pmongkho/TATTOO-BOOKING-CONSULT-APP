@@ -1,0 +1,23 @@
+.navbar{
+
+    bottom: 0;
+    background-color: #164985;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    width: 100%;
+
+}
+
+.navbar__right{
+    margin-right: 20px;
+    
+}
+.navbar__middle {
+ width: 100%;
+ display: flex;
+ align-items: center;
+ justify-content: space-evenly;
+}
